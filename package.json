@@ -1,0 +1,22 @@
+{
+  "name": "jamstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tallerjamstack/jamstack-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tallerjamstack/jamstack-site/issues"
+  },
+  "homepage": "https://github.com/tallerjamstack/jamstack-site#readme",
+  "dependencies": {
+    "serve": "^12.0.1"
+  }
+}
